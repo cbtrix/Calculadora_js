@@ -1,14 +1,14 @@
 # :smile: Calculadora JS
 
 
-## :thumbsup: Tecnologias Usadas
+## :rocket: Tecnologias Usadas
 
 - HTML5
 - CSS3  
 - JavaScript
 
 
-## :rocket: Como usar
+## 💻 Como usar
 
 1.Clone o projeto na sua máquina.
 
