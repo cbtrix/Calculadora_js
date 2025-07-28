@@ -1,6 +1,5 @@
-# :smile: Nome do Projeto
+# :smile: Calculadora JS
 
-Breve descrição do que o projeto faz.
 
 ## 🚀 Tecnologias Usadas
 
