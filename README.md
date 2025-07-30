@@ -16,4 +16,4 @@
 
 
 ## Inspiração e aprendizagem
-@Gutoneitzke
+@Gustavo Neitzke
