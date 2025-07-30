@@ -16,4 +16,4 @@
 
 
 ## Inspiração e aprendizagem
-@Gustavo Neitzke
+[@Gustavo Neitzke](https://github.com/gutoneitzke)
